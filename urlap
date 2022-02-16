@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="HU">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PizzaKandó</title>
+</head>
+<body>
+   <h2>Vevő adatai</h2>
+   <p>Név: Kiss Gergely Lajos</p>
+   <p>Utca, házszám: Andrássy út 53</p>
+   <p>Telefon: 06704275565</p>
+   <h2>Pizza fajták:</h2>
+   <li>Sonkás-kukoricás</li>
+   <li>Szalámis</li>
+   <li>Hawaii</li>
+   <li>Ínyenc</li>
+   <h2>Pizza mérete</h2>
+   <li>24 cm</li>
+   <li>32 cm</li>
+   <ul>50 cm</ul>
+   <h2>Végezetül</h2>
+   <li>Méret: 32 cm</li>
+   <li>Választott pizza: Ínyenc</li>
+   <li>Mennyiség:2 db</li>
+   <li>Kért szállítási idő: 45 perc</li>
+   <body style=background-color:dodgerblue>
+   
+</html>
